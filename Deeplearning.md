@@ -12,6 +12,7 @@ https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensiv
 
 4. RNN and LSTM implementation - Visualised
 RNN: https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
+
 LSTM & GRU:https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 
 5. Attention and Transformer network
