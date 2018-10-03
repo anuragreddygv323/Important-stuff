@@ -17,6 +17,7 @@ LSTM & GRU:https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a
 Attention in NLP : https://medium.com/@joealato/attention-in-nlp-734c6fa9d983
 
 Attention visualised:https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
 Transformer visualised:https://jalammar.github.io/illustrated-transformer/
 
 6. 
