@@ -4,8 +4,10 @@
 1. **Learn Tensorflow from Jose Portilla**
 2. _Implement different nets_ : Alexnet,Imagenet,Vgg etc...
 
+https://towardsdatascience.com/an-intuitive-guide-to-deep-network-architectures-65fdc477db41
 
 3. Object detection module
+https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9
 
 
 4. RNN and LSTM implementation - Visualised
