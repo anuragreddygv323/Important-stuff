@@ -88,6 +88,8 @@ http://dparra.sitios.ing.uc.cl/classes/recsys-2016-2/students/DNNyoutube_FdelRio
 
 Data science 
 
+https://www.scaler.com/topics/data-science/
+
 Print out
 
 https://www.interviewcake.com/python-interview-questions
